@@ -80,7 +80,7 @@ namespace AvilesJenifer
                     lblidvehiculo.Text,
                     txtmarca.Text,
                     txtmodelo.Text,
-                    label.Text
+                    txtyear.Text
 
                 };
                 objConexion.mantenimiento_datos(valores, accion);
